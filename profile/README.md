@@ -10,7 +10,7 @@ library `Phylogenetics` that every repository shares, the registry of the reposi
 conventions and the tools. Its README shows the tree of the hubs. A hub holds a library for what its
 papers share and the catalog of the papers it covers, and its README has the checklist of those
 papers, with their repositories. The site
-[formal-phylogenetics.github.io](https://formal-phylogenetics.github.io/) draws the whole tree, with
+[formal-phylogenetics.vltanh.me](https://formal-phylogenetics.vltanh.me/) draws the whole tree, with
 a card for each entry of the catalogs.
 
 The hubs of inference, on estimating alignments, trees and networks from data:
