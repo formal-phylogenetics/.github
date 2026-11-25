@@ -7,9 +7,11 @@ proved by the paper's own arguments, and an audit reports its errors and gaps.
 The collection is rooted at
 [lean4-phylogenetics](https://github.com/formal-phylogenetics/lean4-phylogenetics), which holds the
 library `Phylogenetics` that every repository shares, the registry of the repositories, the
-conventions and the tools. Its README shows each hub and paper with its status. A hub holds a
-library for what its papers share and the catalog of the papers it covers, and its README lists the
-repositories of those papers.
+conventions and the tools. Its README shows the tree of the hubs. A hub holds a library for what its
+papers share and the catalog of the papers it covers, and its README has the checklist of those
+papers, with their repositories. The site
+[formal-phylogenetics.github.io](https://formal-phylogenetics.github.io/) draws the whole tree, with
+a card for each entry of the catalogs.
 
 The hubs of inference, on estimating alignments, trees and networks from data:
 
