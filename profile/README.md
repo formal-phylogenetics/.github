@@ -13,7 +13,8 @@ papers, with their repositories. The site
 [formal-phylogenetics.vltanh.me](https://formal-phylogenetics.vltanh.me/) draws the whole tree, with
 a card for each entry of the catalogs.
 
-The hubs of inference, on estimating alignments, trees and networks from data:
+The hubs of inference, on estimating alignments, trees and networks from data, and placing new
+sequences on trees:
 
 - [lean4-phylo-alignment](https://github.com/formal-phylogenetics/lean4-phylo-alignment): sequence
   alignment;
@@ -24,7 +25,9 @@ The hubs of inference, on estimating alignments, trees and networks from data:
 - [lean4-phylo-network](https://github.com/formal-phylogenetics/lean4-phylo-network): phylogenetic
   network estimation, with the library
   [lean4-phylo-tree-of-blobs](https://github.com/formal-phylogenetics/lean4-phylo-tree-of-blobs) of
-  its papers on the tree of blobs of a phylogenetic network.
+  its papers on the tree of blobs of a phylogenetic network;
+- [lean4-phylo-placement](https://github.com/formal-phylogenetics/lean4-phylo-placement): phylogenetic
+  placement, and the phylogenetic metagenomics that rests on it.
 
 The hubs of theory:
 
