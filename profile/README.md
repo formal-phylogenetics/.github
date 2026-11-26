@@ -22,9 +22,9 @@ The hubs of inference, on estimating alignments, trees and networks from data:
 - [lean4-phylo-species-tree](https://github.com/formal-phylogenetics/lean4-phylo-species-tree):
   species tree estimation;
 - [lean4-phylo-network](https://github.com/formal-phylogenetics/lean4-phylo-network): phylogenetic
-  network estimation, with its sub-hub
-  [lean4-phylo-tree-of-blobs](https://github.com/formal-phylogenetics/lean4-phylo-tree-of-blobs) on
-  the tree of blobs of a phylogenetic network.
+  network estimation, with the library
+  [lean4-phylo-tree-of-blobs](https://github.com/formal-phylogenetics/lean4-phylo-tree-of-blobs) of
+  its papers on the tree of blobs of a phylogenetic network.
 
 The hubs of theory:
 
